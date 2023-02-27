@@ -6,6 +6,7 @@ import {
   DiCss3,
   DiJavascript1,
   DiPhp,
+  DiBootstrap,
   DiReact,
   DiGit,
   DiWordpress,
@@ -14,7 +15,7 @@ import {
 } from "react-icons/di";
 import {
   SiLaravel,
-  
+
 } from "react-icons/si";
 
 function Techstack() {
@@ -34,6 +35,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiLaravel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
