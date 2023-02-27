@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/iamHarinda/iamharinda-webapp/master/src/Assets/Harinda_Vishwantha_Resume.pdf";
+  "https://github.com/iamHarinda/iamharinda-webapp/raw/master/src/Assets/Harinda_Vishwantha_Resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -40,7 +40,7 @@ function ResumeNew() {
           </Document>
         </Row>
 
-        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
+        <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
             href={pdf}
@@ -50,7 +50,7 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row> */}
+        </Row>
       </Container>
     </div>
   );
