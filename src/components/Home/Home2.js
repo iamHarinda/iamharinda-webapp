@@ -4,12 +4,13 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
   AiFillFacebook,
   AiOutlineWhatsApp,
+  AiFillSkype,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaQuora } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -109,15 +110,14 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://www.quora.com/profile/Harinda-Vishwantha"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineWhatsApp />
+                  <FaQuora />
                 </a>
               </li>
-              
             </ul>
           </Col>
         </Row>
