@@ -9,9 +9,12 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Harinda Vishwantha Fernando </span>
-            from <span className="purple"> Udubaddawa, Sri Lanka.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            from <span className="purple"> Udubaddawa, Sri Lanka.</span> I hold two degrees in information technology and communication 
+            from the Rajarata University of Sri Lanka and the University of Colombo, Sri Lanka (<span className="purple">BICT</span> and <span className="purple">BIT</span> respectively). 
+            With a strong background in information technology and communication, 
+            I have a solid foundation in the field and currently work as an <span className="purple">associate software engineer</span> for the #1 App Development company in Australia, 
+            where I <span className="purple">specialize in PHP and Laravel-based backend development.</span> 
+            Throughout my career, I have developed a wide range of skills and experiences that demonstrate my ability to excel in a variety of areas.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
