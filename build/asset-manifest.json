@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.0dd9fcd7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/LibraryManagementSystem.png": "/static/media/LibraryManagementSystem.8fb814a0377d079e8a48.png",
+    "static/media/PetsRecognitionSystem.png": "/static/media/PetsRecognitionSystem.90b555177d1cbdb211b6.png",
+    "static/media/BringingJoytotheNation.png": "/static/media/BringingJoytotheNation.04620445895b53fedf60.png",
+    "static/media/EmployeeRecordSystem.png": "/static/media/EmployeeRecordSystem.0605033ca6a754ae0d04.png",
+    "static/media/DivingintoAdventure.png": "/static/media/DivingintoAdventure.db640f522ac5f257e3c1.png",
+    "static/media/ClassManagementSystem.png": "/static/media/ClassManagementSystem.205090c3bca1ae296101.png",
+    "static/media/OptimizingEfficiency.png": "/static/media/OptimizingEfficiency.d504bf3f22b2df63c163.png",
+    "static/media/SupplyandDemandManagementSystem.png": "/static/media/SupplyandDemandManagementSystem.6f86d9caba354793ac69.png",
+    "static/media/Harinda_Vishwantha_Resume.pdf": "/static/media/Harinda_Vishwantha_Resume.37df99599238b984904e.pdf",
+    "static/media/EmpoweringtheFuture.png": "/static/media/EmpoweringtheFuture.870911e295b8ea4e8154.png",
+    "static/media/avatar.svg": "/static/media/avatar.73cdfacfd020e12fa3b5c298e7ba72f0.svg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.ca75f999b1a4a01a5ba8.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.0dd9fcd7.js.map": "/static/js/main.0dd9fcd7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.0dd9fcd7.js"
+  ]
+}
