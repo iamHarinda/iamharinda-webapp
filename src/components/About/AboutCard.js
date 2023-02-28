@@ -21,18 +21,18 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Swimming
-            </li>
-            <li className="about-activity">
               <ImPointRight /> Writting Blogs
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
+            <li className="about-activity">
+              <ImPointRight /> Swimming
+            </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Plant seeds of kindness, nurture them with creativity, and watch yourself grow into a person that no one will ever forget"{" "}
           </p>
           <footer className="blockquote-footer">Harinda Vishwantha Fernando</footer>
         </blockquote>
